@@ -1,0 +1,102 @@
+{
+  "paragraphs": [
+    {
+      "text": "val checked \u003d z.checkbox(\"_mycheck1\", Seq(\"Apple\"), Seq((\"Apple\", \"Apple\"), (\"Banana\", \"Banana\"), (\"Orange\", \"Orange\")))",
+      "dateUpdated": "Feb 13, 2016 6:16:18 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true
+      },
+      "settings": {
+        "params": {
+          "_mycheck1": [
+            "Banana"
+          ]
+        },
+        "forms": {
+          "_mycheck1": {
+            "name": "_mycheck1",
+            "displayName": "_mycheck1",
+            "type": "checkbox",
+            "defaultValue": [
+              "Apple"
+            ],
+            "options": [
+              {
+                "value": "Apple",
+                "displayName": "Apple"
+              },
+              {
+                "value": "Banana",
+                "displayName": "Banana"
+              },
+              {
+                "value": "Orange",
+                "displayName": "Orange"
+              }
+            ],
+            "hidden": false
+          }
+        }
+      },
+      "jobName": "paragraph_1455415846355_964536983",
+      "id": "20160213-181046_748635891",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "checked: Iterable[Object] \u003d Wrappers(Banana)\n"
+      },
+      "dateCreated": "Feb 13, 2016 6:10:46 PM",
+      "dateStarted": "Feb 13, 2016 6:16:18 PM",
+      "dateFinished": "Feb 13, 2016 6:16:18 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1455416130884_-813019904",
+      "id": "20160213-181530_1097501168",
+      "dateCreated": "Feb 13, 2016 6:15:30 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Test - Dynamic Forms",
+  "id": "2BB3MXK5D",
+  "angularObjects": {
+    "2BDTQ525B": [],
+    "2BDJGSMNU": [],
+    "2BAJZBVCP": [],
+    "2BAH9MUD3": [],
+    "2BD39CYVF": [],
+    "2BAFNX1TZ": [],
+    "2BBT7YEUU": [],
+    "2BBAFHQG1": [],
+    "2BCJ5JEX5": [],
+    "2BEBD85ER": [],
+    "2BD48RXZ4": [],
+    "2BDQ1755Z": [],
+    "2BCNFW6XK": [],
+    "2BAYEM24Y": [],
+    "2BCFMK9TK": [],
+    "2BCA4N2H9": [],
+    "2BBYBDN6S": []
+  },
+  "config": {
+    "looknfeel": "default"
+  },
+  "info": {}
+}

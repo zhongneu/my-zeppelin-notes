@@ -1,0 +1,98 @@
+{
+  "paragraphs": [
+    {
+      "text": "println(\"%table key\\tvalue\\tvalue2\")\nprintln(\"1\\t1123948134\\t23452435\")\nprintln(\"2\\t19238432\\t23452345\")\nprintln(\"3\\t2934802394\\t23423423\")\nprintln(\"4\\t2930482141\\t12141423\")\nprintln(\"5\\t9809809809\\t64645645\")",
+      "dateUpdated": "Feb 13, 2016 4:50:28 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "lineChart",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [
+            {
+              "name": "key",
+              "index": 0.0,
+              "aggr": "sum"
+            }
+          ],
+          "values": [
+            {
+              "name": "value",
+              "index": 1.0,
+              "aggr": "sum"
+            }
+          ],
+          "groups": [],
+          "scatter": {
+            "xAxis": {
+              "name": "key",
+              "index": 0.0,
+              "aggr": "sum"
+            },
+            "yAxis": {
+              "name": "value",
+              "index": 1.0,
+              "aggr": "sum"
+            }
+          }
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1455343496208_-1672016274",
+      "id": "20160212-220456_2130877661",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TABLE",
+        "msg": "key\tvalue\tvalue2\n1\t1123948134\t23452435\n2\t19238432\t23452345\n3\t2934802394\t23423423\n4\t2930482141\t12141423\n5\t9809809809\t64645645\n"
+      },
+      "dateCreated": "Feb 12, 2016 10:04:56 PM",
+      "dateStarted": "Feb 13, 2016 12:50:34 AM",
+      "dateFinished": "Feb 13, 2016 12:51:07 AM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1455345023332_-669401156",
+      "id": "20160212-223023_677946719",
+      "dateCreated": "Feb 12, 2016 10:30:23 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Test - Charts",
+  "id": "2BBHA11HB",
+  "angularObjects": {
+    "2BDTQ525B": [],
+    "2BDJGSMNU": [],
+    "2BAJZBVCP": [],
+    "2BAH9MUD3": [],
+    "2BD39CYVF": [],
+    "2BAFNX1TZ": [],
+    "2BBT7YEUU": [],
+    "2BBAFHQG1": [],
+    "2BCJ5JEX5": [],
+    "2BEBD85ER": [],
+    "2BD48RXZ4": [],
+    "2BDQ1755Z": [],
+    "2BCNFW6XK": [],
+    "2BAYEM24Y": [],
+    "2BCFMK9TK": [],
+    "2BCA4N2H9": [],
+    "2BBYBDN6S": []
+  },
+  "config": {
+    "looknfeel": "default"
+  },
+  "info": {}
+}
